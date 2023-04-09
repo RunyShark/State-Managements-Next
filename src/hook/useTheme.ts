@@ -1,5 +1,5 @@
-import { accionControl } from '@/services';
 import { useState } from 'react';
+import { accionControl } from '@/services';
 
 type TTheme = 'bg-slate-800' | 'bg-slate-600';
 
